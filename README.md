@@ -1,0 +1,2 @@
+# releasedrafter_example01
+releasedrafter_example01
